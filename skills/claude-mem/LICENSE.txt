@@ -1,0 +1,8 @@
+# GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2025 Alex Newman (@thedotmack). All rights reserved.
+
+## 关键条款
+- 个人使用无限制
+- 修改后网络部署需开源

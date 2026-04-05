@@ -1,0 +1,17 @@
+# GitHub Desktop
+#
+
+#
+# Temp
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
