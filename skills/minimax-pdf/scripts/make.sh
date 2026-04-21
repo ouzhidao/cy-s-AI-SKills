@@ -29,7 +29,7 @@
 set -euo pipefail
 SCRIPTS="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PY="python3"
-NODE="node"
+NODE="bun"
 
 # ── Colour helpers ─────────────────────────────────────────────────────────────
 red()    { printf '\033[0;31m%s\033[0m\n' "$*"; }
