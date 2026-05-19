@@ -1,0 +1,17 @@
+{
+  "name": "cy-ai-skills",
+  "version": "1.0.0",
+  "description": "OUZHIDAO AI Agent SKILL 集合 — 设备采购合同/服务代理/仓储/原料销售等合同模板",
+  "type": "module",
+  "scripts": {
+    "list": "bun run scripts/list-skills.ts",
+    "git:push": "bun run scripts/git-push.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouzhidao/cy-s-AI-SKills.git"
+  }
+}
